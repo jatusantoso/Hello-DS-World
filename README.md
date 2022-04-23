@@ -1,3 +1,2 @@
 # Hello-DS-World
-Welcoming My Data Science Journey \br
-Using Python
+Welcoming My Data Science Journey <br />
